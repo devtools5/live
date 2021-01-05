@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Julius",
+                "last": "Laitinen"
+            },
+            "location": {
+                "street": {
+                    "number": 5390,
+                    "name": "Satakennankatu"
+                },
+                "city": "Lemi",
+                "state": "Central Finland",
+                "country": "Finland",
+                "postcode": 68304,
+                "coordinates": {
+                    "latitude": "-15.6815",
+                    "longitude": "-31.7609"
+                },
+                "timezone": {
+                    "offset": "-3:30",
+                    "description": "Newfoundland"
+                }
+            },
+            "email": "julius.laitinen@sexy.com",
+            "login": {
+                "uuid": "6658c70a-dab0-4058-b648-60e9ede396b3",
+                "username": "crazylion487",
+                "password": "hhhh",
+                "salt": "ZNUaduID",
+                "md5": "69dfd3a64f30dc67ff64d452879737c6",
+                "sha1": "f5397a4661c1afe9e00fd831835e421711c60a2f",
+                "sha256": "ecb8c1ba0ff51c1a7d6df5dbd3c5b99dbada42425875634d088556cafa98604b"
+            },
+            "dob": {
+                "date": "1945-11-30T16:12:09.215Z",
+                "age": 75
+            },
+            "registered": {
+                "date": "2018-04-29T16:24:00.139Z",
+                "age": 2
+            },
+            "phone": "09-892-547",
+            "cell": "042-137-33-21",
+            "id": {
+                "name": "HETU",
+                "value": "NaNNA261undefined"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/56.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+            },
+            "nat": "FI"
+        }
+    ],
+    "info": {
+        "seed": "7f1f7a32dadab62b",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
